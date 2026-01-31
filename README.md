@@ -1,5 +1,6 @@
 # UberDashboard-project
-![image alt]
+![image alt](https://github.com/iammigjoe/UberDashboard-project/blob/main/dashboad.png?raw=true)
+
 Uber Data Analytics Dashboard
 
 Description
